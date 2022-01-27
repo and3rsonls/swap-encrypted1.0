@@ -8,7 +8,7 @@ in this case the [Arch Linux](https://wiki.archlinux.org/title/Installation_guid
 umount swap device
 
 ### UUID
-`# blkid` 
+`# blkid`   
 to view device UUID and type
 
 ### Setup crypttab
