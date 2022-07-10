@@ -37,4 +37,4 @@ UUID=XXX...(UUID type swap)     none        swap        defaults    0       0
 <br>
 Linux® is a registered trademark of Linus Torvalds.<br>
 The Arch Linux name and logo are recognized trademarks. Some rights reserved.<br>
-Copyright © 2002-2021 Judd Vinet, Aaron Griffin and Levente Polyák.<br>
+Copyright © 2002-2022 Judd Vinet, Aaron Griffin and Levente Polyák.<br>
